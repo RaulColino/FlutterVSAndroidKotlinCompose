@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "487238656975",
+    "project_id": "memshelf-app",
+    "storage_bucket": "memshelf-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487238656975:android:9dd78baa9e172353b068ba",
+        "android_client_info": {
+          "package_name": "com.memshelf.memshelf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487238656975-6h45r892k4o6tkhet75bn99i4i46nilf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8yjRNbF6_UZjSUH4kN7gWnp6LaJqkWiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487238656975-6h45r892k4o6tkhet75bn99i4i46nilf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "487238656975-9jdjmb549f4iulva58cv8onln8eqtcbk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.memshelf.memshelf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
